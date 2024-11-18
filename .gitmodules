@@ -1,0 +1,3 @@
+[submodule "external/radem"]
+	path = external/radem
+	url = git@github.com:AGHRADEM/radem.git
